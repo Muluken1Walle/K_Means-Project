@@ -1,3 +1,7 @@
+The data can be downloaded using the following link:
+
+https://drive.google.com/drive/folders/1TfxasS9WxqAYzq2\_G--QjIvNIb-nIenb?usp=sharing
+
 Source of Data
 The San Francisco Controller's Office maintains a database of the salary and benefits
 
